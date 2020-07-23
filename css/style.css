@@ -46,3 +46,14 @@ a:hover {
     color: #000;
     text-decoration: none;
 }
+.footerrow{
+  padding-left: 70px;
+}
+ul{
+  list-style-type:none;
+}
+.transpbutton {
+  background-color:transparent; 
+  color: white; 
+  border: 2px solid  white;
+}
